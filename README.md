@@ -1,32 +1,38 @@
-# .github/workflows/snake.yml
+<div align="center">
 
-name: Generate Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,50:632CA6,100:111111&text=RALUEV&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%40%20Datadog&descAlignY=58&descSize=18"/>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+<br>
 
-permissions:
-  contents: write
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=632CA6&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Datadog;Backend+%E2%80%A2+Infrastructure+%E2%80%A2+Observability;Building+systems+that+scale.;Measure.+Optimize.+Repeat." />
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<br><br>
 
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: raluev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+[![GitHub](https://img.shields.io/badge/@raluev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raluev)
+![Profile Views](https://komarev.com/ghpvc/?username=raluev&style=for-the-badge&color=632CA6)
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div>
+
+---
+
+## `> whoami`
+
+```yaml
+name: Raluev
+company: Datadog
+
+role:
+  - Software Engineer
+
+focus:
+  - Backend Engineering
+  - Infrastructure
+  - Observability
+  - Distributed Systems
+  - Performance
+
+currently:
+  building: scalable systems
+  learning: distributed systems
+  status: shipping
