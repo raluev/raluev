@@ -12,4 +12,14 @@
 [![GitHub](https://img.shields.io/badge/@raluev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raluev)
 ![Profile Views](https://komarev.com/ghpvc/?username=raluev&style=for-the-badge&color=632CA6)
 
+<br><br>
+
+### `> languages`
+
+<img src="https://skillicons.dev/icons?i=go,rust,python,ts,js&theme=dark" />
+
+<br>
+
+`Go` · `Rust` · `Python` · `TypeScript` · `JavaScript`
+
 </div>
