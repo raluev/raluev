@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=632CA6&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Datadog;Backend+%E2%80%A2+Infrastructure+%E2%80%A2+Observability;Building+systems+that+scale.;Measure.+Optimize.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=632CA6&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Datadog;Backend+%E2%80%A2+Infrastructure+%E2%80%A2+Observability;Building+systems+that+scale.;Measure.+Optimize.+Repeat." />
 
 <br><br>
 
@@ -17,9 +17,5 @@
 ### `> languages`
 
 <img src="https://skillicons.dev/icons?i=go,rust,python,ts,js&theme=dark" />
-
-<br>
-
-`Go` · `Rust` · `Python` · `TypeScript` · `JavaScript`
 
 </div>
