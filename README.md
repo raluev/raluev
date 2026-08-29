@@ -13,26 +13,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=raluev&style=for-the-badge&color=632CA6)
 
 </div>
-
----
-
-## `> whoami`
-
-```yaml
-name: Raluev
-company: Datadog
-
-role:
-  - Software Engineer
-
-focus:
-  - Backend Engineering
-  - Infrastructure
-  - Observability
-  - Distributed Systems
-  - Performance
-
-currently:
-  building: scalable systems
-  learning: distributed systems
-  status: shipping
