@@ -19,5 +19,3 @@
 <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 
 </div>
-
-a
